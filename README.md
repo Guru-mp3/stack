@@ -8,12 +8,3 @@ Stack is a linear data structure which follows a particular order in which the o
     Pop: Removes an item from the stack. The items are popped in the reversed order in which they are pushed. If the stack is empty, then it is said to be an Underflow condition.
     Peek or Top: Returns top element of stack.
     isEmpty: Returns true if stack is empty, else false.
-### Algorithm
-
-    Step 1-Start
-    Step 2-Declaration of stack.
-    Step 3-Initialization of stack
-    Step 4-Accept choice from the user for the operation to be performed
-    Step 5-Insertion into stack ( push operation).
-    Step 5-Deletion from stack (pop operation).
-
